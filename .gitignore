@@ -1,0 +1,4 @@
+yolov5
+datasets
+flask_inference_app/static/*
+flask_inference_app/uploads/*
